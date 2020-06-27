@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>io.thechad.x</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/spitfire/.nvm/versions/node/v10.20.1/bin/node</string>
+		<string>/Users/spitfire/Sites/io.thechad/x/bin/www</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/Users/spitfire/Sites/io.thechad/x/logs/stderr</string>
+	<key>StandardOutPath</key>
+	<string>/Users/spitfire/Sites/io.thechad/x/logs/stdout</string>
+	<key>WorkingDirectory</key>
+	<string>/Users/spitfire/Sites/io.thechad/x</string>
+</dict>
+</plist>
